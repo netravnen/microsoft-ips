@@ -1,0 +1,2 @@
+go.microsoft.com
+support.office.com

@@ -1,0 +1,2 @@
+*.msedge.net
+compass-ssl.microsoft.com

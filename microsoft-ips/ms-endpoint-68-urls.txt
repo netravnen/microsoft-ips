@@ -1,0 +1,14 @@
+*.helpshift.com
+*.localytics.com
+analytics.localytics.com
+api.localytics.com
+connect.facebook.net
+firstpartyapps.oaspapps.com
+outlook.uservoice.com
+prod.firstpartyapps.oaspapps.com.akadns.net
+rink.hockeyapp.net
+sdk.hockeyapp.net
+telemetryservice.firstpartyapps.oaspapps.com
+web.localytics.com
+webanalytics.localytics.com
+wus-firstpartyapps.oaspapps.com

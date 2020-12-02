@@ -1,0 +1,7 @@
+*.api.microsoftstream.com
+*.notification.api.microsoftstream.com
+amp.azure.net
+api.microsoftstream.com
+s0.assets-yammer.com
+vortex.data.microsoft.com
+web.microsoftstream.com

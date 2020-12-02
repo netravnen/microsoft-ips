@@ -1,0 +1,2 @@
+*.aria.microsoft.com
+*.events.data.microsoft.com

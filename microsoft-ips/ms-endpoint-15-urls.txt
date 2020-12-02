@@ -1,0 +1,3 @@
+*.sfbassets.com
+*.urlp.sfbassets.com
+skypemaprdsitus.trafficmanager.net

@@ -1,0 +1,4 @@
+*.manage.office.com
+*.protection.office.com
+manage.office.com
+protection.office.com

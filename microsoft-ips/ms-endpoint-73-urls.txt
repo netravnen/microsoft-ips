@@ -1,0 +1,5 @@
+*.aadrm.com
+*.azurerms.com
+*.informationprotection.azure.com
+ecn.dev.virtualearth.net
+informationprotection.hosting.portal.azure.net

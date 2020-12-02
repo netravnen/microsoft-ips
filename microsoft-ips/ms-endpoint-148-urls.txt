@@ -1,0 +1,3 @@
+cdnprod.myanalytics.microsoft.com
+myanalytics.microsoft.com
+myanalytics-gcc.microsoft.com

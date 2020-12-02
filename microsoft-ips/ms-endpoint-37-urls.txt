@@ -1,0 +1,6 @@
+*.sharepointonline.com
+cdn.sharepointonline.com
+privatecdn.sharepointonline.com
+publiccdn.sharepointonline.com
+spoprod-a.akamaihd.net
+static.sharepointonline.com

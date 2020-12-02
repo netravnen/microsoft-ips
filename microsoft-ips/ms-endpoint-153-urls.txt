@@ -1,0 +1,3 @@
+*.azure-apim.net
+*.flow.microsoft.com
+*.powerapps.com

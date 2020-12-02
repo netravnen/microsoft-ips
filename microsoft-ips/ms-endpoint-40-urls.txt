@@ -1,0 +1,3 @@
+ajax.aspnetcdn.com
+r3.res.outlook.com
+spoprod-a.akamaihd.net

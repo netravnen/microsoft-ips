@@ -1,0 +1,2 @@
+prod.msocdn.com
+watson.telemetry.microsoft.com

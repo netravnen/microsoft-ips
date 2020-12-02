@@ -1,0 +1,3 @@
+*.lync.com
+*.teams.microsoft.com
+teams.microsoft.com

@@ -1,0 +1,2 @@
+*.keydelivery.mediaservices.windows.net
+*.streaming.mediaservices.windows.net

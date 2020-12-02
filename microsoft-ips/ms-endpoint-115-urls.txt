@@ -1,0 +1,2 @@
+api.meetup.com
+secure.meetup.com

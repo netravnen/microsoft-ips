@@ -1,0 +1,3 @@
+*.azureedge.net
+*.media.azure.net
+*.streaming.mediaservices.windows.net

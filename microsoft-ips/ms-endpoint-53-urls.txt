@@ -1,0 +1,5 @@
+ajax.aspnetcdn.com
+apis.live.net
+cdn.optimizely.com
+officeapps.live.com
+www.onedrive.com

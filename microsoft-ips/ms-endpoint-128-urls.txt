@@ -1,0 +1,2 @@
+*.config.office.net
+*.manage.microsoft.com

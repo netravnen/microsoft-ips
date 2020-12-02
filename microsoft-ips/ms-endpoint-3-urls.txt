@@ -1,0 +1,3 @@
+r1.res.office365.com
+r3.res.office365.com
+r4.res.office365.com

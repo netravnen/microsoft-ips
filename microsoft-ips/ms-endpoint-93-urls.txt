@@ -1,0 +1,15 @@
+*.virtualearth.net
+ajax.microsoft.com
+c.bing.net
+excelbingmap.firstpartyapps.oaspapps.com
+excelcs.officeapps.live.com
+ocos-office365-s2s.msedge.net
+omextemplates.content.office.net
+peoplegraph.firstpartyapps.oaspapps.com
+pptcs.officeapps.live.com
+tse1.mm.bing.net
+uci.officeapps.live.com
+watson.microsoft.com
+wikipedia.firstpartyapps.oaspapps.com
+wordcs.officeapps.live.com
+www.bing.com

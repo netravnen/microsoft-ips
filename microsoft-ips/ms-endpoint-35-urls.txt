@@ -1,0 +1,3 @@
+*.wns.windows.com
+admin.onedrive.com
+officeclient.microsoft.com

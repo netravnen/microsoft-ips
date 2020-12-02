@@ -1,0 +1,17 @@
+*.hockeyapp.net
+*.sharepointonline.com
+cdn.forms.office.net
+dc.applicationinsights.microsoft.com
+dc.services.visualstudio.com
+forms.microsoft.com
+mem.gfx.ms
+office365servicehealthcommunications.cloudapp.net
+osiprod-cus-daffodil-signalr-00.service.signalr.net
+osiprod-neu-daffodil-signalr-00.service.signalr.net
+osiprod-weu-daffodil-signalr-00.service.signalr.net
+osiprod-wus-daffodil-signalr-00.service.signalr.net
+signup.microsoft.com
+staffhub.ms
+staffhub.uservoice.com
+staffhubweb.azureedge.net
+watson.telemetry.microsoft.com

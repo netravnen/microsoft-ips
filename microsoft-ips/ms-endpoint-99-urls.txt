@@ -1,0 +1,2 @@
+api.login.yahoo.com
+social.yahooapis.com

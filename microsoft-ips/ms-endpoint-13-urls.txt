@@ -1,0 +1,2 @@
+*.broadcast.skype.com
+broadcast.skype.com

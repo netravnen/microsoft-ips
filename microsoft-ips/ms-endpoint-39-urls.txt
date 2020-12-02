@@ -1,0 +1,3 @@
+*.svc.ms
+*-files.sharepoint.com
+*-myfiles.sharepoint.com

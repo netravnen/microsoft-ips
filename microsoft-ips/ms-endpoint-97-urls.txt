@@ -1,0 +1,4 @@
+account.live.com
+apis.live.net
+auth.gfx.ms
+login.live.com

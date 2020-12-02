@@ -1,0 +1,4 @@
+eus-www.sway-cdn.com
+eus-www.sway-extensions.com
+wus-www.sway-cdn.com
+wus-www.sway-extensions.com

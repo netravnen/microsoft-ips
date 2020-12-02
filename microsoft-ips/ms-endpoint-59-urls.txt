@@ -1,0 +1,12 @@
+*.hip.live.com
+*.microsoftonline.com
+*.microsoftonline-p.com
+*.msauth.net
+*.msauthimages.net
+*.msecnd.net
+*.msftauth.net
+*.msftauthimages.net
+*.phonefactor.net
+enterpriseregistration.windows.net
+management.azure.com
+policykeyservice.dc.ad.msft.net

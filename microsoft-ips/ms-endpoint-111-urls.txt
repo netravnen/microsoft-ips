@@ -1,0 +1,2 @@
+rink.hockeyapp.net
+sdk.hockeyapp.net
