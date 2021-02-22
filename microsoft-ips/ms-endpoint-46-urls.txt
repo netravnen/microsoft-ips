@@ -1,11 +1,3 @@
+*.officeapps.live.com
 *.online.office.com
-*broadcast.officeapps.live.com
-*excel.officeapps.live.com
-*onenote.officeapps.live.com
-*powerpoint.officeapps.live.com
-*rtc.officeapps.live.com
-*shared.officeapps.live.com
-*view.officeapps.live.com
-*visio.officeapps.live.com
-*word-edit.officeapps.live.com
 office.live.com

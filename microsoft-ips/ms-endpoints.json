@@ -702,16 +702,8 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
+      "*.officeapps.live.com",
       "*.online.office.com",
-      "*broadcast.officeapps.live.com",
-      "*excel.officeapps.live.com",
-      "*onenote.officeapps.live.com",
-      "*powerpoint.officeapps.live.com",
-      "*rtc.officeapps.live.com",
-      "*shared.officeapps.live.com",
-      "*view.officeapps.live.com",
-      "*visio.officeapps.live.com",
-      "*word-edit.officeapps.live.com",
       "office.live.com"
     ],
     "ips": [
@@ -752,7 +744,7 @@
       "2a01:111:f100:7000::6fdd:6cd5/128",
       "2a01:111:f100:a004::bfeb:88cf/128"
     ],
-    "tcpPorts": "443",
+    "tcpPorts": "80,443",
     "expressRoute": true,
     "category": "Allow",
     "required": true
@@ -1630,20 +1622,6 @@
     "category": "Default",
     "required": false,
     "notes": "Outlook for Android and iOS: Evernote integration"
-  },
-  {
-    "id": 104,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "a.wunderlist.com",
-      "www.wunderlist.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: WunderList integration"
   },
   {
     "id": 105,
