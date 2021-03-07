@@ -1,3 +1,1 @@
-nexus.officeapps.live.com
-nexusrules.officeapps.live.com
 portal.microsoftonline.com

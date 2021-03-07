@@ -9,10 +9,8 @@ directory.services.live.com
 docs.live.net
 en-us.appex-rf.msn.com
 foodanddrink.services.appex.bing.com
-odcsm.officeapps.live.com
 office.microsoft.com
 partnerservices.getmicrosoftkey.com
-roaming.officeapps.live.com
 sas.office.microsoft.com
 signup.live.com
 view.atdmt.com

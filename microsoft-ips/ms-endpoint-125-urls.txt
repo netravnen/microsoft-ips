@@ -19,7 +19,6 @@ isrg.trustid.ocsp.identrust.com
 mscrl.microsoft.com
 ocsp.digicert.com
 ocsp.globalsign.com
-ocsp.int-x3.letsencrypt.org
 ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com

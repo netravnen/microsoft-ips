@@ -627,13 +627,10 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.api.microsoftstream.com",
-      "*.notification.api.microsoftstream.com",
+      "*.microsoftstream.com",
       "amp.azure.net",
-      "api.microsoftstream.com",
       "s0.assets-yammer.com",
-      "vortex.data.microsoft.com",
-      "web.microsoftstream.com"
+      "vortex.data.microsoft.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -910,10 +907,14 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
+      "*.compliance.microsoft.com",
       "*.manage.office.com",
       "*.protection.office.com",
+      "*.security.microsoft.com",
+      "compliance.microsoft.com",
       "manage.office.com",
-      "protection.office.com"
+      "protection.office.com",
+      "security.microsoft.com"
     ],
     "ips": [
       "13.80.125.22/32",
@@ -1226,8 +1227,6 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "nexus.officeapps.live.com",
-      "nexusrules.officeapps.live.com",
       "portal.microsoftonline.com"
     ],
     "ips": [
@@ -1295,7 +1294,6 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "o15.officeredir.microsoft.com",
-      "ocsredir.officeapps.live.com",
       "officepreviewredir.microsoft.com",
       "officeredir.microsoft.com",
       "r.office.microsoft.com"
@@ -1366,18 +1364,6 @@
     "required": true
   },
   {
-    "id": 85,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "ols.officeapps.live.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
     "id": 86,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
@@ -1386,18 +1372,6 @@
       "officeclient.microsoft.com"
     ],
     "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
-    "id": 87,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "ocsa.officeapps.live.com"
-    ],
-    "tcpPorts": "80,443",
     "expressRoute": false,
     "category": "Default",
     "required": true
@@ -1428,24 +1402,11 @@
     "required": true
   },
   {
-    "id": 90,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "mrodevicemgr.officeapps.live.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
     "id": 91,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "ajax.aspnetcdn.com",
-      "cdn.odc.officeapps.live.com"
+      "ajax.aspnetcdn.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1733,10 +1694,8 @@
       "docs.live.net",
       "en-us.appex-rf.msn.com",
       "foodanddrink.services.appex.bing.com",
-      "odcsm.officeapps.live.com",
       "office.microsoft.com",
       "partnerservices.getmicrosoftkey.com",
-      "roaming.officeapps.live.com",
       "sas.office.microsoft.com",
       "signup.live.com",
       "view.atdmt.com",
@@ -1917,7 +1876,6 @@
       "mscrl.microsoft.com",
       "ocsp.digicert.com",
       "ocsp.globalsign.com",
-      "ocsp.int-x3.letsencrypt.org",
       "ocsp.msocsp.com",
       "ocsp2.globalsign.com",
       "ocspx.digicert.com",
@@ -1962,30 +1920,6 @@
     "urls": [
       "*.config.office.net",
       "*.manage.microsoft.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
-    "id": 130,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "lpcres.delve.office.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
-    "id": 146,
-    "serviceArea": "Skype",
-    "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
-    "urls": [
-      "statics.teams.microsoft.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -2091,6 +2025,18 @@
       "activity.windows.com"
     ],
     "tcpPorts": "443",
+    "expressRoute": false,
+    "category": "Default",
+    "required": true
+  },
+  {
+    "id": 157,
+    "serviceArea": "Common",
+    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
+    "urls": [
+      "ocsp.int-x3.letsencrypt.org"
+    ],
+    "tcpPorts": "80",
     "expressRoute": false,
     "category": "Default",
     "required": true
