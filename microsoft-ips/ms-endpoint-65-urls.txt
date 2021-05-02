@@ -1,6 +1,4 @@
 *.portal.cloudappsecurity.com
 account.office.net
-admin.microsoft.com
 home.office.com
-portal.office.com
 www.office.com

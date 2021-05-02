@@ -1,0 +1,3 @@
+admin.microsoft.com
+portal.microsoftonline.com
+portal.office.com

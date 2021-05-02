@@ -1,0 +1,2 @@
+cdn.odc.officeapps.live.com
+cdn.uci.officeapps.live.com
