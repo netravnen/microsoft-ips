@@ -1,8 +1,6 @@
 *.compliance.microsoft.com
-*.manage.office.com
 *.protection.office.com
 *.security.microsoft.com
 compliance.microsoft.com
-manage.office.com
 protection.office.com
 security.microsoft.com

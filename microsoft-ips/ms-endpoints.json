@@ -907,11 +907,9 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.compliance.microsoft.com",
-      "*.manage.office.com",
       "*.protection.office.com",
       "*.security.microsoft.com",
       "compliance.microsoft.com",
-      "manage.office.com",
       "protection.office.com",
       "security.microsoft.com"
     ],
@@ -945,9 +943,7 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.portal.cloudappsecurity.com",
-      "account.office.net",
-      "home.office.com",
-      "www.office.com"
+      "account.office.net"
     ],
     "ips": [
       "52.108.0.0/14",
@@ -1776,7 +1772,11 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.office.com"
+      "*.manage.office.com",
+      "*.office.com",
+      "home.office.com",
+      "manage.office.com",
+      "www.office.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
