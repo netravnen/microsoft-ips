@@ -352,8 +352,7 @@
     "serviceArea": "Skype",
     "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
     "urls": [
-      "*.sfbassets.com",
-      "skypemaprdsitus.trafficmanager.net"
+      "*.sfbassets.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -704,6 +703,7 @@
     ],
     "ips": [
       "13.107.6.171/32",
+      "13.107.18.15/32",
       "13.107.140.6/32",
       "52.108.0.0/14",
       "52.238.106.116/32",
@@ -732,6 +732,7 @@
       "2603:1040:e00:1::2f/128",
       "2603:1040:f00::1f/128",
       "2603:1050:1::cd/128",
+      "2620:1ec:c::15/128",
       "2620:1ec:8fc::6/128",
       "2620:1ec:a92::171/128",
       "2a01:111:f100:2000::a83e:3019/128",
@@ -1772,11 +1773,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.manage.office.com",
-      "*.office.com",
-      "home.office.com",
-      "manage.office.com",
-      "www.office.com"
+      "*.office.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1903,8 +1900,7 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "admin.microsoft.com",
-      "portal.microsoftonline.com",
-      "portal.office.com"
+      "portal.microsoftonline.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,

@@ -1,5 +1,1 @@
-*.manage.office.com
 *.office.com
-home.office.com
-manage.office.com
-www.office.com

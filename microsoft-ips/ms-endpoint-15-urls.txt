@@ -1,2 +1,1 @@
 *.sfbassets.com
-skypemaprdsitus.trafficmanager.net
