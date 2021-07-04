@@ -606,21 +606,6 @@
     "required": true
   },
   {
-    "id": 40,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "ajax.aspnetcdn.com",
-      "r3.res.outlook.com",
-      "spoprod-a.akamaihd.net"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Office 365 Video CDNs"
-  },
-  {
     "id": 41,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
@@ -690,7 +675,7 @@
     "expressRoute": false,
     "category": "Default",
     "required": false,
-    "notes": "Office 365 Video"
+    "notes": "Microsoft Stream"
   },
   {
     "id": 46,
@@ -1899,8 +1884,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "admin.microsoft.com",
-      "portal.microsoftonline.com"
+      "admin.microsoft.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
