@@ -1,1 +1,2 @@
+*.portal.cloudappsecurity.com
 suite.office.net

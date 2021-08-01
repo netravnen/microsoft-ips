@@ -1,2 +1,1 @@
-*.portal.cloudappsecurity.com
 account.office.net
