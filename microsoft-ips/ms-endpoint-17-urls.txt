@@ -1,2 +1,1 @@
 aka.ms
-amp.azure.net

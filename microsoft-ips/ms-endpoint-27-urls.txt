@@ -1,4 +1,3 @@
 *.mstea.ms
 *.secure.skypeassets.com
 mlccdnprod.azureedge.net
-videoplayercdn.osi.office.net

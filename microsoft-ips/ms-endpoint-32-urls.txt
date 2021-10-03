@@ -1,3 +1,4 @@
 *.log.optimizely.com
+click.email.microsoftonline.com
 ssw.live.com
 storage.live.com

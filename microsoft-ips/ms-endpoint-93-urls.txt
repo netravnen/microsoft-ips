@@ -1,11 +1,14 @@
 *.virtualearth.net
-ajax.microsoft.com
 c.bing.net
 excelbingmap.firstpartyapps.oaspapps.com
+excelcs.officeapps.live.com
 ocos-office365-s2s.msedge.net
-omextemplates.content.office.net
 peoplegraph.firstpartyapps.oaspapps.com
+pptcs.officeapps.live.com
+store.office.com
+templateservice.office.com
 tse1.mm.bing.net
-watson.microsoft.com
+uci.officeapps.live.com
 wikipedia.firstpartyapps.oaspapps.com
+wordcs.officeapps.live.com
 www.bing.com

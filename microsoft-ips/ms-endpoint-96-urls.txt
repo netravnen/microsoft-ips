@@ -1,6 +1,1 @@
-*.manage.microsoft.com
-api.office.com
-go.microsoft.com
 login.windows-ppe.net
-secure.aadcdn.microsoftonline-p.com
-vortex.data.microsoft.com

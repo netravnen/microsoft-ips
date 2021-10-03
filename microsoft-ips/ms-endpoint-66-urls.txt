@@ -1,2 +1,15 @@
 *.portal.cloudappsecurity.com
+apc.delve.office.com
+aus.delve.office.com
+can.delve.office.com
+delve.office.com
+delve-gcc.office.com
+eur.delve.office.com
+gbr.delve.office.com
+ind.delve.office.com
+jpn.delve.office.com
+kor.delve.office.com
+lam.delve.office.com
+nam.delve.office.com
 suite.office.net
+webshell.suite.office.com

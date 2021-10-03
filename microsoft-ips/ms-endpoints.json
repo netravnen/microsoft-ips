@@ -232,7 +232,6 @@
     "serviceAreaDisplayName": "Exchange Online",
     "urls": [
       "*.outlook.com",
-      "*.outlook.office.com",
       "attachments.office.net"
     ],
     "tcpPorts": "80,443",
@@ -352,7 +351,8 @@
     "serviceArea": "Skype",
     "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
     "urls": [
-      "*.sfbassets.com"
+      "*.sfbassets.com",
+      "*.urlp.sfbassets.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -365,9 +365,7 @@
     "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
     "urls": [
       "*.keydelivery.mediaservices.windows.net",
-      "*.msecnd.net",
       "*.streaming.mediaservices.windows.net",
-      "ajax.aspnetcdn.com",
       "mlccdn.blob.core.windows.net"
     ],
     "tcpPorts": "443",
@@ -380,8 +378,7 @@
     "serviceArea": "Skype",
     "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
     "urls": [
-      "aka.ms",
-      "amp.azure.net"
+      "aka.ms"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -460,8 +457,7 @@
     "urls": [
       "*.mstea.ms",
       "*.secure.skypeassets.com",
-      "mlccdnprod.azureedge.net",
-      "videoplayercdn.osi.office.net"
+      "mlccdnprod.azureedge.net"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -509,6 +505,7 @@
     "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
     "urls": [
       "*.log.optimizely.com",
+      "click.email.microsoftonline.com",
       "ssw.live.com",
       "storage.live.com"
     ],
@@ -566,30 +563,12 @@
     "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
     "urls": [
       "*.sharepointonline.com",
-      "cdn.sharepointonline.com",
-      "privatecdn.sharepointonline.com",
-      "publiccdn.sharepointonline.com",
-      "spoprod-a.akamaihd.net",
-      "static.sharepointonline.com"
+      "spoprod-a.akamaihd.net"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
     "category": "Default",
     "required": true
-  },
-  {
-    "id": 38,
-    "serviceArea": "SharePoint",
-    "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
-    "urls": [
-      "prod.msocdn.com",
-      "watson.telemetry.microsoft.com"
-    ],
-    "tcpPorts": "80,443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "SharePoint Online: auxiliary URLs"
   },
   {
     "id": 39,
@@ -612,29 +591,13 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.microsoftstream.com",
-      "amp.azure.net",
-      "s0.assets-yammer.com",
-      "vortex.data.microsoft.com"
+      "az416426.vo.msecnd.net"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
     "category": "Default",
     "required": false,
     "notes": "Microsoft Stream"
-  },
-  {
-    "id": 42,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "amsglob0cdnstream13.azureedge.net",
-      "amsglob0cdnstream14.azureedge.net"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Microsoft Stream CDN"
   },
   {
     "id": 43,
@@ -669,8 +632,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.keydelivery.mediaservices.windows.net",
-      "*.streaming.mediaservices.windows.net"
+      "*.keydelivery.mediaservices.windows.net"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -763,7 +725,6 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.microsoft.com",
-      "*.msecnd.net",
       "*.office.net"
     ],
     "tcpPorts": "443",
@@ -881,7 +842,8 @@
       "*.phonefactor.net",
       "enterpriseregistration.windows.net",
       "management.azure.com",
-      "policykeyservice.dc.ad.msft.net"
+      "policykeyservice.dc.ad.msft.net",
+      "secure.aadcdn.microsoftonline-p.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -961,7 +923,20 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.portal.cloudappsecurity.com",
-      "suite.office.net"
+      "apc.delve.office.com",
+      "aus.delve.office.com",
+      "can.delve.office.com",
+      "delve.office.com",
+      "delve-gcc.office.com",
+      "eur.delve.office.com",
+      "gbr.delve.office.com",
+      "ind.delve.office.com",
+      "jpn.delve.office.com",
+      "kor.delve.office.com",
+      "lam.delve.office.com",
+      "nam.delve.office.com",
+      "suite.office.net",
+      "webshell.suite.office.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -988,17 +963,11 @@
     "urls": [
       "*.helpshift.com",
       "*.localytics.com",
-      "analytics.localytics.com",
-      "api.localytics.com",
       "connect.facebook.net",
       "firstpartyapps.oaspapps.com",
       "outlook.uservoice.com",
       "prod.firstpartyapps.oaspapps.com.akadns.net",
-      "rink.hockeyapp.net",
-      "sdk.hockeyapp.net",
       "telemetryservice.firstpartyapps.oaspapps.com",
-      "web.localytics.com",
-      "webanalytics.localytics.com",
       "wus-firstpartyapps.oaspapps.com"
     ],
     "tcpPorts": "443",
@@ -1030,17 +999,23 @@
       "appsforoffice.microsoft.com",
       "assets.onestore.ms",
       "auth.gfx.ms",
+      "az826701.vo.msecnd.net",
       "c1.microsoft.com",
-      "contentstorage.osi.office.net",
       "dgps.support.microsoft.com",
       "docs.microsoft.com",
       "msdn.microsoft.com",
       "platform.linkedin.com",
       "prod.msocdn.com",
+      "products.office.com",
+      "r1.res.office365.com",
+      "r4.res.office365.com",
+      "res.delve.office.com",
       "shellprod.msocdn.com",
       "support.content.office.net",
       "support.microsoft.com",
+      "support.office.com",
       "technet.microsoft.com",
+      "templates.office.com",
       "videocontent.osi.office.net",
       "videoplayercdn.osi.office.net"
     ],
@@ -1091,36 +1066,21 @@
     "required": true
   },
   {
-    "id": 74,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "testconnectivity.microsoft.com"
-    ],
-    "tcpPorts": "80,443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Remote Connectivity Analyzer - Initiate connectivity tests."
-  },
-  {
     "id": 75,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.hockeyapp.net",
       "*.sharepointonline.com",
-      "cdn.forms.office.net",
-      "dc.applicationinsights.microsoft.com",
+      "*.staffhub.office.com",
+      "api.office.com",
       "dc.services.visualstudio.com",
-      "forms.microsoft.com",
+      "forms.office.com",
       "mem.gfx.ms",
-      "office365servicehealthcommunications.cloudapp.net",
-      "signup.microsoft.com",
+      "securescore.office.com",
       "staffhub.ms",
-      "staffhub.uservoice.com",
-      "staffhubweb.azureedge.net",
-      "watson.telemetry.microsoft.com"
+      "staffhub.office.com",
+      "staffhub.uservoice.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -1150,21 +1110,10 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "o15.officeredir.microsoft.com",
+      "ocsredir.officeapps.live.com",
       "officepreviewredir.microsoft.com",
       "officeredir.microsoft.com",
       "r.office.microsoft.com"
-    ],
-    "tcpPorts": "80,443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": true
-  },
-  {
-    "id": 82,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "roaming.officeapps.live.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1225,8 +1174,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "go.microsoft.com",
-      "support.office.com"
+      "go.microsoft.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1238,7 +1186,8 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "ajax.aspnetcdn.com"
+      "ajax.aspnetcdn.com",
+      "cdn.odc.officeapps.live.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1264,15 +1213,18 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.virtualearth.net",
-      "ajax.microsoft.com",
       "c.bing.net",
       "excelbingmap.firstpartyapps.oaspapps.com",
+      "excelcs.officeapps.live.com",
       "ocos-office365-s2s.msedge.net",
-      "omextemplates.content.office.net",
       "peoplegraph.firstpartyapps.oaspapps.com",
+      "pptcs.officeapps.live.com",
+      "store.office.com",
+      "templateservice.office.com",
       "tse1.mm.bing.net",
-      "watson.microsoft.com",
+      "uci.officeapps.live.com",
       "wikipedia.firstpartyapps.oaspapps.com",
+      "wordcs.officeapps.live.com",
       "www.bing.com"
     ],
     "tcpPorts": "80,443",
@@ -1300,12 +1252,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.manage.microsoft.com",
-      "api.office.com",
-      "go.microsoft.com",
-      "login.windows-ppe.net",
-      "secure.aadcdn.microsoftonline-p.com",
-      "vortex.data.microsoft.com"
+      "login.windows-ppe.net"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -1319,8 +1266,6 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "account.live.com",
-      "apis.live.net",
-      "auth.gfx.ms",
       "login.live.com"
     ],
     "tcpPorts": "443",
@@ -1431,8 +1376,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "by.uservoice.com",
-      "outlook.uservoice.com"
+      "by.uservoice.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -1467,33 +1411,6 @@
     "notes": "Outlook for Android and iOS: Adjust integration"
   },
   {
-    "id": 111,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "rink.hockeyapp.net",
-      "sdk.hockeyapp.net"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Hockey log integration"
-  },
-  {
-    "id": 112,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "acompli.helpshift.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Helpshift integration"
-  },
-  {
     "id": 113,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
@@ -1520,15 +1437,12 @@
       "d.docs.live.net",
       "directory.services.live.com",
       "docs.live.net",
-      "en-us.appex-rf.msn.com",
-      "foodanddrink.services.appex.bing.com",
-      "office.microsoft.com",
+      "odcsm.officeapps.live.com",
+      "officeimg.vo.msecnd.net",
       "partnerservices.getmicrosoftkey.com",
-      "sas.office.microsoft.com",
+      "roaming.officeapps.live.com",
       "signup.live.com",
-      "view.atdmt.com",
-      "watson.telemetry.microsoft.com",
-      "weather.tile.appex.bing.com"
+      "view.atdmt.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1557,24 +1471,8 @@
     "urls": [
       "account.live.com",
       "auth.gfx.ms",
-      "c.bing.com",
-      "c.live.com",
-      "cl2.apple.com",
-      "directory.services.live.com",
-      "docs.live.net",
-      "en-us.appex-rf.msn.com",
-      "foodanddrink.services.appex.bing.com",
-      "go.microsoft.com",
       "login.live.com",
-      "office.microsoft.com",
-      "p100-sandbox.itunes.apple.com",
-      "partnerservices.getmicrosoftkey.com",
-      "roaming.officeapps.live.com",
-      "sas.office.microsoft.com",
-      "signup.live.com",
-      "view.atdmt.com",
-      "watson.telemetry.microsoft.com",
-      "weather.tile.appex.bing.com"
+      "officeimg.vo.msecnd.net"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1608,19 +1506,6 @@
     "category": "Default",
     "required": false,
     "notes": "Yammer CDN"
-  },
-  {
-    "id": 120,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "ajax.aspnetcdn.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Planner CDNs"
   },
   {
     "id": 121,
@@ -1670,6 +1555,7 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "sway.com",
+      "sway.office.com",
       "www.sway.com"
     ],
     "tcpPorts": "443",
@@ -1691,23 +1577,45 @@
       "*.symcd.com",
       "*.verisign.com",
       "*.verisign.net",
+      "aia.entrust.net",
       "apps.identrust.com",
+      "cacert.a.omniroot.com",
+      "cacert.omniroot.com",
       "cacerts.digicert.com",
+      "cdp1.public-trust.com",
       "cert.int-x3.letsencrypt.org",
+      "crl.entrust.net",
       "crl.globalsign.com",
       "crl.globalsign.net",
       "crl.identrust.com",
-      "crl.microsoft.com",
       "crl3.digicert.com",
       "crl4.digicert.com",
+      "evintl-aia.verisign.com",
+      "evintl-crl.verisign.com",
+      "evintl-ocsp.verisign.com",
+      "evsecure-aia.verisign.com",
+      "evsecure-crl.verisign.com",
+      "evsecure-ocsp.verisign.com",
       "isrg.trustid.ocsp.identrust.com",
       "mscrl.microsoft.com",
       "ocsp.digicert.com",
+      "ocsp.entrust.net",
       "ocsp.globalsign.com",
       "ocsp.msocsp.com",
+      "ocsp.omniroot.com",
       "ocsp2.globalsign.com",
       "ocspx.digicert.com",
+      "s1.symcb.com",
+      "s2.symcb.com",
+      "sa.symcb.com",
+      "sd.symcb.com",
       "secure.globalsign.com",
+      "sr.symcb.com",
+      "sr.symcd.com",
+      "su.symcb.com",
+      "su.symcd.com",
+      "vassg142.crl.omniroot.com",
+      "vassg142.ocsp.omniroot.com",
       "www.digicert.com",
       "www.microsoft.com"
     ],
@@ -1759,7 +1667,11 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.office.com"
+      "*.manage.office.com",
+      "*.office.com",
+      "home.office.com",
+      "manage.office.com",
+      "www.office.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1785,7 +1697,8 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "workplaceanalytics.cdn.office.net"
+      "workplaceanalytics.cdn.office.net",
+      "workplaceanalytics.office.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
@@ -1797,7 +1710,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.officeconfig.msocdn.com"
+      "config.office.com"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -1885,7 +1798,9 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "admin.microsoft.com"
+      "admin.microsoft.com",
+      "portal.microsoftonline.com",
+      "portal.office.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,

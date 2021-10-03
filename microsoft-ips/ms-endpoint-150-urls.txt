@@ -1,1 +1,1 @@
-*.officeconfig.msocdn.com
+config.office.com

@@ -1,5 +1,3 @@
 *.keydelivery.mediaservices.windows.net
-*.msecnd.net
 *.streaming.mediaservices.windows.net
-ajax.aspnetcdn.com
 mlccdn.blob.core.windows.net

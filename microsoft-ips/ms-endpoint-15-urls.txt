@@ -1,1 +1,2 @@
 *.sfbassets.com
+*.urlp.sfbassets.com
