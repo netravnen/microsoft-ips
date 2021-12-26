@@ -1,2 +1,1 @@
 workplaceanalytics.cdn.office.net
-workplaceanalytics.office.com

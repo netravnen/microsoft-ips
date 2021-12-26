@@ -7,9 +7,6 @@ cl2.apple.com
 d.docs.live.net
 directory.services.live.com
 docs.live.net
-odcsm.officeapps.live.com
-officeimg.vo.msecnd.net
 partnerservices.getmicrosoftkey.com
-roaming.officeapps.live.com
 signup.live.com
 view.atdmt.com

@@ -1,4 +1,3 @@
 account.live.com
 auth.gfx.ms
 login.live.com
-officeimg.vo.msecnd.net
