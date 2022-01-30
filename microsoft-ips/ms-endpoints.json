@@ -449,6 +449,7 @@
       "52.104.0.0/14",
       "104.146.128.0/17",
       "150.171.40.0/22",
+      "2603:1061:1300::/40",
       "2620:1ec:8f8::/46",
       "2620:1ec:908::/46",
       "2a01:111:f402::/48"
@@ -533,6 +534,7 @@
     "serviceArea": "SharePoint",
     "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
     "urls": [
+      "*.gr.global.aa-rt.sharepoint.com",
       "*.svc.ms",
       "*-admin.sharepoint.com",
       "*-files.sharepoint.com",
@@ -908,7 +910,6 @@
       "*.localytics.com",
       "connect.facebook.net",
       "firstpartyapps.oaspapps.com",
-      "outlook.uservoice.com",
       "prod.firstpartyapps.oaspapps.com.akadns.net",
       "telemetryservice.firstpartyapps.oaspapps.com",
       "wus-firstpartyapps.oaspapps.com"
@@ -1006,12 +1007,10 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.hockeyapp.net",
       "*.sharepointonline.com",
       "dc.services.visualstudio.com",
       "mem.gfx.ms",
-      "staffhub.ms",
-      "staffhub.uservoice.com"
+      "staffhub.ms"
     ],
     "tcpPorts": "443",
     "expressRoute": false,
@@ -1294,19 +1293,6 @@
     "category": "Default",
     "required": false,
     "notes": "Outlook for Android and iOS: Outlook Privacy"
-  },
-  {
-    "id": 106,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "by.uservoice.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: User voice integration"
   },
   {
     "id": 109,

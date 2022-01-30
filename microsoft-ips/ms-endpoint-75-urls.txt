@@ -1,6 +1,4 @@
-*.hockeyapp.net
 *.sharepointonline.com
 dc.services.visualstudio.com
 mem.gfx.ms
 staffhub.ms
-staffhub.uservoice.com

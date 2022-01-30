@@ -2,7 +2,6 @@
 *.localytics.com
 connect.facebook.net
 firstpartyapps.oaspapps.com
-outlook.uservoice.com
 prod.firstpartyapps.oaspapps.com.akadns.net
 telemetryservice.firstpartyapps.oaspapps.com
 wus-firstpartyapps.oaspapps.com

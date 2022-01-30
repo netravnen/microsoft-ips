@@ -1,3 +1,4 @@
+*.gr.global.aa-rt.sharepoint.com
 *.svc.ms
 *-admin.sharepoint.com
 *-files.sharepoint.com
