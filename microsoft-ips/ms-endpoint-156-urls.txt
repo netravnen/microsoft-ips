@@ -1,1 +1,2 @@
+*.activity.windows.com
 activity.windows.com

@@ -709,7 +709,6 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "ad.atdmt.com",
       "s.ytimg.com",
       "www.youtube.com"
     ],
@@ -907,7 +906,6 @@
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.helpshift.com",
-      "*.localytics.com",
       "connect.facebook.net",
       "firstpartyapps.oaspapps.com",
       "prod.firstpartyapps.oaspapps.com.akadns.net",
@@ -1198,89 +1196,6 @@
     "notes": "Outlook for Android and iOS: Consumer Outlook.com and OneDrive integration"
   },
   {
-    "id": 98,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "accounts.google.com",
-      "mail.google.com",
-      "www.googleapis.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Google integration"
-  },
-  {
-    "id": 99,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "api.login.yahoo.com",
-      "social.yahooapis.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Yahoo integration"
-  },
-  {
-    "id": 100,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "api.dropboxapi.com",
-      "www.dropbox.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: DropBox integration"
-  },
-  {
-    "id": 101,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "app.box.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Box integration"
-  },
-  {
-    "id": 102,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "graph.facebook.com",
-      "m.facebook.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Facebook integration"
-  },
-  {
-    "id": 103,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "www.evernote.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Evernote integration"
-  },
-  {
     "id": 105,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
@@ -1293,19 +1208,6 @@
     "category": "Default",
     "required": false,
     "notes": "Outlook for Android and iOS: Outlook Privacy"
-  },
-  {
-    "id": 109,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "data.flurry.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Flurry log integration"
   },
   {
     "id": 110,
@@ -1321,55 +1223,25 @@
     "notes": "Outlook for Android and iOS: Adjust integration"
   },
   {
-    "id": 113,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "play.google.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Play Store integration (Android only)"
-  },
-  {
     "id": 114,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "*.appex.bing.com",
       "*.appex-rf.msn.com",
-      "*.itunes.apple.com",
       "c.bing.com",
       "c.live.com",
-      "cl2.apple.com",
       "d.docs.live.net",
       "directory.services.live.com",
       "docs.live.net",
       "partnerservices.getmicrosoftkey.com",
-      "signup.live.com",
-      "view.atdmt.com"
+      "signup.live.com"
     ],
     "tcpPorts": "80,443",
     "expressRoute": false,
     "category": "Default",
     "required": false,
     "notes": "Office Mobile URLs"
-  },
-  {
-    "id": 115,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "api.meetup.com",
-      "secure.meetup.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Meetup integration"
   },
   {
     "id": 116,
@@ -1441,19 +1313,6 @@
     "category": "Default",
     "required": false,
     "notes": "Sway CDNs"
-  },
-  {
-    "id": 123,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "www.google-analytics.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Sway website analytics"
   },
   {
     "id": 124,
@@ -1626,6 +1485,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
+      "*.activity.windows.com",
       "activity.windows.com"
     ],
     "tcpPorts": "443",

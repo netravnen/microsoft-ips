@@ -1,12 +1,9 @@
 *.appex.bing.com
 *.appex-rf.msn.com
-*.itunes.apple.com
 c.bing.com
 c.live.com
-cl2.apple.com
 d.docs.live.net
 directory.services.live.com
 docs.live.net
 partnerservices.getmicrosoftkey.com
 signup.live.com
-view.atdmt.com

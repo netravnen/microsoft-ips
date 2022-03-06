@@ -1,5 +1,4 @@
 *.helpshift.com
-*.localytics.com
 connect.facebook.net
 firstpartyapps.oaspapps.com
 prod.firstpartyapps.oaspapps.com.akadns.net
