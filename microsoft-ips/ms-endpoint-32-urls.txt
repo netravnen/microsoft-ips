@@ -1,3 +1,2 @@
-*.log.optimizely.com
 ssw.live.com
 storage.live.com

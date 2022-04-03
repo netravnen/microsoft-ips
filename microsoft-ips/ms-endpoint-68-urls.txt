@@ -1,5 +1,3 @@
-*.helpshift.com
-connect.facebook.net
 firstpartyapps.oaspapps.com
 prod.firstpartyapps.oaspapps.com.akadns.net
 telemetryservice.firstpartyapps.oaspapps.com

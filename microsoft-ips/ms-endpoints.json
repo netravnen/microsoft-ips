@@ -424,19 +424,6 @@
     "required": true
   },
   {
-    "id": 29,
-    "serviceArea": "Skype",
-    "serviceAreaDisplayName": "Skype for Business Online and Microsoft Teams",
-    "urls": [
-      "*.tenor.com"
-    ],
-    "tcpPorts": "80,443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Yammer third-party integration"
-  },
-  {
     "id": 31,
     "serviceArea": "SharePoint",
     "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
@@ -464,7 +451,6 @@
     "serviceArea": "SharePoint",
     "serviceAreaDisplayName": "SharePoint Online and OneDrive for Business",
     "urls": [
-      "*.log.optimizely.com",
       "ssw.live.com",
       "storage.live.com"
     ],
@@ -705,27 +691,12 @@
     "required": true
   },
   {
-    "id": 52,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "s.ytimg.com",
-      "www.youtube.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "OneNote 3rd party supporting services and CDNs"
-  },
-  {
     "id": 53,
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
       "ajax.aspnetcdn.com",
       "apis.live.net",
-      "cdn.optimizely.com",
       "officeapps.live.com",
       "www.onedrive.com"
     ],
@@ -905,8 +876,6 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "*.helpshift.com",
-      "connect.facebook.net",
       "firstpartyapps.oaspapps.com",
       "prod.firstpartyapps.oaspapps.com.akadns.net",
       "telemetryservice.firstpartyapps.oaspapps.com",
@@ -1200,7 +1169,6 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
-      "bit.ly",
       "www.acompli.com"
     ],
     "tcpPorts": "443",
@@ -1208,19 +1176,6 @@
     "category": "Default",
     "required": false,
     "notes": "Outlook for Android and iOS: Outlook Privacy"
-  },
-  {
-    "id": 110,
-    "serviceArea": "Common",
-    "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
-    "urls": [
-      "app.adjust.com"
-    ],
-    "tcpPorts": "443",
-    "expressRoute": false,
-    "category": "Default",
-    "required": false,
-    "notes": "Outlook for Android and iOS: Adjust integration"
   },
   {
     "id": 114,
