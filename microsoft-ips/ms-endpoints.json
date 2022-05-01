@@ -710,6 +710,7 @@
     "serviceArea": "Common",
     "serviceAreaDisplayName": "Microsoft 365 Common and Office Online",
     "urls": [
+      "*.auth.microsoft.com",
       "*.msftidentity.com",
       "*.msidentity.com",
       "account.activedirectory.windowsazure.com",
@@ -718,6 +719,7 @@
       "api.passwordreset.microsoftonline.com",
       "autologon.microsoftazuread-sso.com",
       "becws.microsoftonline.com",
+      "ccs.login.microsoftonline.com",
       "clientconfig.microsoftonline-p.net",
       "companymanager.microsoftonline.com",
       "device.login.microsoftonline.com",
@@ -787,6 +789,7 @@
       "*.protection.office.com",
       "*.security.microsoft.com",
       "compliance.microsoft.com",
+      "defender.microsoft.com",
       "protection.office.com",
       "security.microsoft.com"
     ],
