@@ -1,4 +1,3 @@
 *.microsoft.com
 *.msocdn.com
-*.office.net
 *.onmicrosoft.com

@@ -10,8 +10,5 @@ msdn.microsoft.com
 platform.linkedin.com
 prod.msocdn.com
 shellprod.msocdn.com
-support.content.office.net
 support.microsoft.com
 technet.microsoft.com
-videocontent.osi.office.net
-videoplayercdn.osi.office.net

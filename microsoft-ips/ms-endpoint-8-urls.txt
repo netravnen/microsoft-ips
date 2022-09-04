@@ -1,2 +1,1 @@
 *.outlook.com
-attachments.office.net

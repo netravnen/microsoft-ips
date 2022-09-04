@@ -1,2 +1,1 @@
-*.cdn.office.net
-contentstorage.osi.office.net
+*.office.net

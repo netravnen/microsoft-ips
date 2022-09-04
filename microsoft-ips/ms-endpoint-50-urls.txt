@@ -1,2 +1,1 @@
 *.microsoft.com
-*.office.net
