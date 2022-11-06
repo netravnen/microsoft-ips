@@ -1,1 +1,2 @@
 *.office.com
+www.microsoft365.com
