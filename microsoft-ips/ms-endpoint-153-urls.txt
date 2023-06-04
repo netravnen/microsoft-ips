@@ -1,3 +1,4 @@
 *.azure-apim.net
 *.flow.microsoft.com
 *.powerapps.com
+*.powerautomate.com
