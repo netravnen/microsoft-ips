@@ -1,1 +1,1 @@
-*.adl.windows.com
+adl.windows.com
