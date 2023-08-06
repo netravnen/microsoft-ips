@@ -1,8 +1,5 @@
 *.virtualearth.net
 c.bing.net
-excelbingmap.firstpartyapps.oaspapps.com
 ocos-office365-s2s.msedge.net
-peoplegraph.firstpartyapps.oaspapps.com
 tse1.mm.bing.net
-wikipedia.firstpartyapps.oaspapps.com
 www.bing.com
