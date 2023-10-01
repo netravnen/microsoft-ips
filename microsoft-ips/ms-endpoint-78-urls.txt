@@ -1,4 +1,3 @@
-*.azureedge.net
 *.microsoft.com
 *.msocdn.com
 *.onmicrosoft.com
