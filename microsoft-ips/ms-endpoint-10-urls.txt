@@ -1,1 +1,2 @@
 *.mail.protection.outlook.com
+*.mx.microsoft
