@@ -4,4 +4,5 @@
 compliance.microsoft.com
 defender.microsoft.com
 protection.office.com
+purview.microsoft.com
 security.microsoft.com
