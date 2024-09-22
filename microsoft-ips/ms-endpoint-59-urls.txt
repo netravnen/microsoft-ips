@@ -1,6 +1,6 @@
 *.hip.live.com
-*.microsoftonline.com
 *.microsoftonline-p.com
+*.microsoftonline.com
 *.msauth.net
 *.msauthimages.net
 *.msecnd.net
