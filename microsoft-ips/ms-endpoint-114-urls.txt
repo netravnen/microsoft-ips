@@ -1,5 +1,5 @@
-*.appex-rf.msn.com
 *.appex.bing.com
+*.appex-rf.msn.com
 c.bing.com
 c.live.com
 d.docs.live.net

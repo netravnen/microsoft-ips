@@ -13,13 +13,13 @@ companymanager.microsoftonline.com
 device.login.microsoftonline.com
 graph.microsoft.com
 graph.windows.net
-login-us.microsoftonline.com
 login.microsoft.com
-login.microsoftonline-p.com
 login.microsoftonline.com
+login.microsoftonline-p.com
 login.windows.net
 logincert.microsoftonline.com
 loginex.microsoftonline.com
+login-us.microsoftonline.com
 nexus.microsoftonline-p.com
 passwordreset.microsoftonline.com
 provisioningapi.microsoftonline.com
