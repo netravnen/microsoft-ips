@@ -1,4 +1,3 @@
-*.compliance.microsoft.com
 *.protection.office.com
 *.security.microsoft.com
 compliance.microsoft.com
