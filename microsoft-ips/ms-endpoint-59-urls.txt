@@ -8,4 +8,3 @@
 *.msftauthimages.net
 *.phonefactor.net
 enterpriseregistration.windows.net
-policykeyservice.dc.ad.msft.net

@@ -1,2 +1,2 @@
-*.secure.skypeassets.com
+join.secure.skypeassets.com
 mlccdnprod.azureedge.net
