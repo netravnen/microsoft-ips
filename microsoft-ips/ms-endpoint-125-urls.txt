@@ -6,7 +6,6 @@
 *.symcd.com
 *.verisign.com
 *.verisign.net
-apps.identrust.com
 cacerts.digicert.com
 cert.int-x3.letsencrypt.org
 crl.globalsign.com
@@ -21,6 +20,7 @@ ocsp.globalsign.com
 ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com
+oneocsp.microsoft.com
 secure.globalsign.com
 www.digicert.com
 www.microsoft.com
