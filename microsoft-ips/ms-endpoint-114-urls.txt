@@ -2,7 +2,5 @@
 *.appex.bing.com
 c.bing.com
 c.live.com
-d.docs.live.net
-docs.live.net
 partnerservices.getmicrosoftkey.com
 signup.live.com
