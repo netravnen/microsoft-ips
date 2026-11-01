@@ -13,11 +13,9 @@ crl.globalsign.net
 crl.identrust.com
 crl3.digicert.com
 crl4.digicert.com
-isrg.trustid.ocsp.identrust.com
 mscrl.microsoft.com
 ocsp.digicert.com
 ocsp.globalsign.com
-ocsp.msocsp.com
 ocsp2.globalsign.com
 ocspx.digicert.com
 oneocsp.microsoft.com
